@@ -1,9 +1,8 @@
-import { Button, Header } from "ui";
-
+import { Button } from "ui";
 export default function Page() {
   return (
     <>
-      <Header text="Web" />
+      <h1 className="">Shadcn x</h1>
       <Button />
     </>
   );
